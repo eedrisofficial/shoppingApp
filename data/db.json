@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "checked": true,
+      "item": "Buy milk"
+    },
+    {
+      "id": 2,
+      "checked": false,
+      "item": "Get some chocolate"
+    },
+    {
+      "id": 4,
+      "checked": true,
+      "item": "Buy pizza"
+    },
+    {
+      "id": 5,
+      "checked": false,
+      "item": "Buy milo"
+    }
+  ]
+}
